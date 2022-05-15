@@ -1,0 +1,29 @@
+.header {
+  height: 200px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.header h1 {
+  padding-top: 25px;
+  text-align: left;
+  color: white;
+  font-size: 3rem;
+}
+
+ul li {
+  text-align: right;
+  display: inline;
+  margin-left: 2%;
+}
+
+.nav-link {
+  font-size: 1.8rem;
+  align-items: center;
+}
+
+.active {
+  font-weight: bolder;
+}
