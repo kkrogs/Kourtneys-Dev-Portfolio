@@ -21,7 +21,7 @@ This project is licensed under the MIT license.
 # Contributors
  Kourtney Krogman
 
-# Deployment
+# Deployed Application
 Here is a link to the deployed version: https://kourtneys-dev-portfolio.herokuapp.com/
 
 # Questions
