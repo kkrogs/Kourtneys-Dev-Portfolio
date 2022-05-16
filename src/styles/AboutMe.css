@@ -1,14 +1,14 @@
 #about-me {
-    background: rgb(16, 103, 142);
-    background: radial-gradient(circle, rgba(16, 103, 142, 1) 0%, rgba(148, 155, 233, 1) 100%);
+    background: rgb(211, 105, 81);
+    color: white;
     min-width: 100%;
     min-height: 100%;
     margin-bottom: 0;
 }
 
 #picture-of-me {
-    height: 200px;
-    border-radius: 50%;
+    height: 300px;
+    border-radius: 20%;
     float: left;
 }
 
