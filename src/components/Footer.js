@@ -36,14 +36,13 @@ function Footer() {
 
 
 
-            <a style={footerStyle.anchors} className="contact-links col-4" href="https://github.com/NilesHachmeister" target="_blank"><i
+            <a style={footerStyle.anchors} className="contact-links col-4" href="https://github.com/kkrogs" target="_blank"><i
                 className="bi bi-github"></i></a>
 
-            <a style={footerStyle.anchors} className="contact-links col-4" href="https://www.linkedin.com/in/niles-hachmeister-678365225/"
+            <a style={footerStyle.anchors} className="contact-links col-4" href="www.linkedin.com/in/kourtney-k-965585161"
                 target="_blank"><i className="bi bi-linkedin"></i></a>
 
-            <a style={footerStyle.anchors} className="contact-links col-4" href="https://stackoverflow.com/users/17302589/niles-hachmeister"><i
-                className="bi bi-stack-overflow"></i></a>
+           
 
 
 

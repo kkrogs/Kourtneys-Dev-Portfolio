@@ -12,7 +12,7 @@ function AboutMe() {
 
 
 
-            <img src="./images/me.jpg" id="picture-of-me" alt="a picture of me outside" />
+            <img src="./images/profileP.jpg" id="picture-of-me" alt="a picture of me with black tanktop" />
 
 
 
