@@ -8,7 +8,7 @@ This project was to create a portfolio using React which helps to render the por
 * [Usage](#usage)
 * [License](#license)
 * [Contributors](#contributors)
-* [Deployed Link](#deployment)
+* [Deployed Application](#deployment)
 * [Questions](#questions)
 # Installation
 The following necessary dependencies must be installed to run the application: "npm i", then "npm start dev". After running those, open up the application and interact with the page to see information about me.
